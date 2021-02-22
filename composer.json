@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/grid-sortable",
+    "name": "webakula-admin-ext/grid-sortable",
     "description": "Sort the grid data by drag and drop rows",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "grid", "sortable"],
-    "homepage": "https://github.com/laravel-admin-ext/grid-sortable",
+    "homepage": "https://github.com/webakula/grid-sortable",
     "version":"1.1",
     "license": "MIT",
     "authors": [
