@@ -3,8 +3,8 @@
 namespace Encore\Admin\GridSortable;
 
 use Encore\Admin\Extension;
-use Encore\Admin\Grid;
-use Encore\Admin\Grid\Tools\ColumnSelector;
+use Encore\Admin\Table as Grid;
+use Encore\Admin\Table\Tools\ColumnSelector;
 use Spatie\EloquentSortable\Sortable;
 
 class GridSortable extends Extension
