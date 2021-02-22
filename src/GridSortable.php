@@ -21,7 +21,7 @@ class GridSortable extends Extension
 
         Grid::macro('sortable', function () use ($column) {
 
-            $this->tools(function (Table\Tools $tools) {
+            $this->tools(function ($tools) {
                 $tools->append(new SaveOrderBtn());
             });
 
