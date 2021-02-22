@@ -3,7 +3,7 @@
 namespace Encore\Admin\GridSortable;
 
 use Encore\Admin\Extension;
-use Encore\Admin\Table as Grid;
+use Encore\Admin\Table;
 use Encore\Admin\Table\Tools\ColumnSelector;
 use Spatie\EloquentSortable\Sortable;
 
